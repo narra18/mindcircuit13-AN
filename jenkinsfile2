@@ -5,12 +5,6 @@ pipeline {
     }
 
     stages {
-        stage('git') {
-            steps {
-                echo 'scm'
-				git branch: 'main', url: 'https://github.com/devopstraininghub/mindcircuit13.git'
-            }
-        }
 		
 		stage('sonar') {
             steps {
