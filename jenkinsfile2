@@ -6,7 +6,8 @@ pipeline {
 
   }
 
-    stCLONE SCM') {
+    stages {
+        stage('CLONE SCM') {
             steps {
                 echo 'cloning code from Github'
 				git branch: 'main', url: 'https://github.com/devopstraininghub/webapp1.git'
