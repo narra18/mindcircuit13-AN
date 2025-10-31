@@ -1,5 +1,6 @@
 <html>
 <body>
+<<<<<<< HEAD
 	<h1 style="color: rgb(30, 58, 24); font-size: 40px;" align="left"This is Production Environment/ 
 <html lang="en">
 <head>
@@ -44,5 +45,8 @@
     <script src="script.js"></script>
 </body>
 </html></h1>
+=======
+	<h1 style="color: rgb(30, 58, 24); font-size: 40px;" align="left">This is Production Environment</h1>
+>>>>>>> e34b0acf7fcd56c957c972ce45912bcc3f99778d
 </body>
 </html>
