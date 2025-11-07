@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: narra18/niteeshyncicd-dev:4
+        image: narra18/niteeshyncicd-dev:5
         ports:
         - containerPort: 8080
 
