@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="color: rgb(30, 58, 24); font-size: 40px;" align="left"This is qa Environment1/ 
+	<h1 style="color: rgb(30, 58, 24); font-size: 40px;" align="left"This is release Environment1/ 
 <html lang="en">
 <head>
     <meta charset="UTF-8">  
